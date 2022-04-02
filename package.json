@@ -1,0 +1,15 @@
+{
+  "name": "deploy-static-website-with-website-fc-plugin.example.dengchao.fun",
+  "version": "1.0.0",
+  "author": {
+    "name": "DevDengChao",
+    "email": "2325690622@qq.com"
+  },
+  "private": true,
+  "scripts": {
+    "deploy": "s deploy"
+  },
+  "devDependencies": {
+    "@serverless-devs/s": "^2.0.103"
+  }
+}
